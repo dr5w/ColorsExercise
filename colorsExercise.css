@@ -1,0 +1,28 @@
+
+h1 {
+    color: greenyellow;
+  }
+  
+  h2 {
+    color: #f5901D;
+  }
+  
+  h3 {
+    color: #527;
+  }
+  
+  h4 {
+    color: #0f0f00ff;
+  }
+
+  h5 {
+    color: #f00f;
+  }
+  
+  h6 {
+    color: rgb(255, 204, 0);
+  }
+
+  p {
+    color: rgba(125, 111, 111, 0.8);
+  }
